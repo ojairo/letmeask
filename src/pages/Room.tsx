@@ -23,8 +23,7 @@ export function Room(){
           />
 
           <div className="form-footer">
-            <span>Para enviar uma pergunta.
-              <button> Faça seu login </button>
+            <span>Para enviar uma pergunta. <button> Faça seu login</button>
             </span>
             <Button type="submit">
               Enviar pergunta
