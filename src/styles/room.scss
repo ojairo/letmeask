@@ -13,6 +13,17 @@
       > img{
         max-height: 45px;
       }
+
+      > div{
+        display: flex;
+        gap: 16px;
+        align-items: center;
+        flex-direction: row;
+
+        Button{
+          height:40px;
+        }
+      }
     }
   }
 
